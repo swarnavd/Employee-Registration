@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+	text-align:center;
+	
+}
+.form{
+	border:1px solid black;
+	height:30%;
+	width:50%;
+	margin:0 auto;
+	
+}
+.box1{
+	padding:10px;
+}
